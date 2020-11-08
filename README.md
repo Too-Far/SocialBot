@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Ryan Turner** - *Initial work* - [PurpleBooth](https://github.com/too-far)
+* **Ryan Turner** - *Initial work* - [Too-Far](https://github.com/too-far)
 
 
 ## License
